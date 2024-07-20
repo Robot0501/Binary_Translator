@@ -2,7 +2,7 @@
 """
 Created on Wed Apr 10 12:01:21 2024
 
-@author: SuhaylTager
+@author: RobotNinja
 """
 
 ASCII = """0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~ """
